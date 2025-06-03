@@ -9,3 +9,6 @@ Data Management - App Manager
 
 Data Management - Fields
 [watch](https://drive.google.com/file/d/1pl0Bs_fcd0-CTb6TcFeyRB0TjVW9iubX/view?usp=drive_link)
+
+Data Configuration
+[watch](https://drive.google.com/file/d/1c-d9sCFilIKEP4lu7_QSg0zG5y72Y5qE/view?usp=drive_link)
