@@ -6,3 +6,6 @@ Data Management - Tabs
 
 Data Management - App Manager
 [watch](https://drive.google.com/file/d/1WsA1S6N8iAqP-F7C_ln5w58ZGbIWRQyk/view?usp=drive_link)
+
+Data Management - Fields
+[watch](https://drive.google.com/file/d/1pl0Bs_fcd0-CTb6TcFeyRB0TjVW9iubX/view?usp=drive_link)
