@@ -18,3 +18,7 @@ Data Security - Profiles
 
 Data Security - Roles 
 [watch](https://drive.google.com/file/d/1_PNOSEedg6LdrIlaiN3eY4-LkSkHuHF_/view?usp=drive_link)
+
+Data Security - Users Part 1 and Part 2
+[watch part 1](https://drive.google.com/file/d/1xHjyfMc73WzNyzZhx3ylnWO2CKyvtGEa/view?usp=drive_link)
+[watch part 2](https://drive.google.com/file/d/1jYCw6JGlJjGKA8YteGO8_FfdA-MTLa3t/view?usp=drive_link)
