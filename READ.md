@@ -22,3 +22,6 @@ Data Security - Roles
 Data Security - Users
 [part 1](https://drive.google.com/file/d/1xHjyfMc73WzNyzZhx3ylnWO2CKyvtGEa/view?usp=drive_link)
 [part 2](https://drive.google.com/file/d/1jYCw6JGlJjGKA8YteGO8_FfdA-MTLa3t/view?usp=drive_link)
+
+Data Security - Permission Set
+[watch](https://drive.google.com/file/d/1JpGkZamZWrsq1c58KUN8MOzgVB_oVnmM/view?usp=drive_link)
