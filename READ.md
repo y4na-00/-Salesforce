@@ -28,3 +28,6 @@ Data Security - Permission Set
 
 Email Template
 [watch](https://drive.google.com/file/d/1kS7lPkxxAKoJ_9Ua9Xs1HRVYUEqhutkY/view?usp=drive_link)
+
+Flows
+[watch](https://drive.google.com/file/d/1JxVpkj8qFwYe-Yp7tAjVN5KciVBVM68O/view?usp=drive_link)
